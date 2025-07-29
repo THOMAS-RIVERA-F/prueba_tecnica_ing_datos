@@ -2,7 +2,7 @@
 
 ## Problema a Resolver
 
-**Objetivo**: Implementar un mecanismo/herramienta que permita hacer veeduría de la calidad de datos, trazabilidad del dato y generar KPIs para que los equipos de negocio obtengan métricas acerca de los teléfonos de los clientes.
+Para la solucion del punto 2 se necesita Implementar un mecanismo/herramienta que permita hacer veeduría de la calidad de datos, trazabilidad del dato y generar KPIs para que los equipos de negocio obtengan métricas acerca de los teléfonos de los clientes.
 
 ## Arquitectura del Sistema de KPIs
 

@@ -2,7 +2,7 @@
 
 ## Problema a Resolver
 
-**Objetivo**: Diseñar e implementar un proceso automatizado y controlado mediante prácticas de CI/CD para la creación, validación, despliegue y mantenimiento de un dataset confiable de números de teléfono de clientes. Este dataset será utilizado para mejorar la comunicación y el servicio al cliente.
+Para la solucion del punto 1 se necesita diseñar e implementar un proceso automatizado y controlado mediante prácticas de CI/CD para la creación, validación, despliegue y mantenimiento de un dataset confiable de números de teléfono de clientes. Este dataset será utilizado para mejorar la comunicación y el servicio al cliente.
 
 ## Ejemplos de Procesamiento de Números
 
