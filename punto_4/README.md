@@ -1,6 +1,6 @@
 # Procesamiento de Archivos HTML y Codificación de Imágenes a Base64
 
-Este proyecto es la solución al Ejercicio 4 de la Prueba de Ingeniería de Datos, cuyo objetivo es procesar archivos HTML para incrustar sus imágenes referenciadas directamente en el código del documento usando codificación Base64.
+Esta es la solución al Ejercicio 4 de la prueba tecncia, cuyo objetivo es procesar archivos HTML para incrustar o poner sus imágenes referenciadas directamente en el código del documento usando codificación Base64.
 
 ## Descripción del Ejercicio
 
@@ -60,14 +60,13 @@ El proyecto se compone de varias clases, cada una con una responsabilidad espec�
   * Escribe el contenido HTML procesado en un nuevo archivo.
   * Se asegura de que los nuevos archivos se nombren con el sufijo `_processed` y se guarden en el directorio de salida, manteniendo la estructura de directorios original.
 
-
 ## Cómo Ejecutar el Proyecto
 
 Para ejecutar el script, siga estos pasos:
 
-1. **Asegúrese de tener Python instalado** (versión 3.x recomendada).
-2. **Navegue a la raíz del proyecto** en su terminal.
-3. **Ejecute el script `main.py`**:
+**Navegue a la raíz del proyecto** en su terminal.
+
+1. **Ejecute el script `main.py`**:
 
    ```bash
    python src/main.py

@@ -39,10 +39,6 @@ class HtmlReader:
 
         Returns:
             str: El contenido del archivo HTML como una cadena de texto.
-
-        Raises:
-            FileNotFoundError: Si el archivo no se encuentra.
-            IOError: Si ocurre un error al leer el archivo.
         """
         if not os.path.exists(file_path):
             raise FileNotFoundError(f"El archivo no se encontró: {file_path}")
