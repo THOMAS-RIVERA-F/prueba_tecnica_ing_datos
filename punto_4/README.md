@@ -1,6 +1,6 @@
 # Procesamiento de Archivos HTML y Codificación de Imágenes a Base64
 
-Esta es la solución al Ejercicio 4 de la prueba tecncia, cuyo objetivo es procesar archivos HTML para incrustar o poner sus imágenes referenciadas directamente en el código del documento usando codificación Base64.
+Esta es la solución al Ejercicio 4 de la prueba tecnia, cuyo objetivo es procesar archivos HTML para incrustar o ponr sus imágenes referenciadas directamente en el código del documento usando codificación Base64.
 
 ## Descripción del Ejercicio
 

@@ -245,8 +245,3 @@ ORDER BY cantidad DESC;
 - **KPIs ejecutivos**: Resumen de calidad y contactabilidad
 - **Tendencias**: Evolución de la calidad de datos
 - **ROI**: Impacto económico de tener datos limpios
-
-```
-
-Este sistema proporciona **veeduría completa** de la calidad de datos y genera **KPIs accionables** para que los equipos de negocio tomen decisiones informadas sobre sus estrategias de comunicación con clientes. 
-```

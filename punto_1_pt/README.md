@@ -357,5 +357,3 @@ python src/clean_data.py
 # Ejecutar pruebas
 python scripts/run_tests.py
 ```
-
-Este sistema garantiza un dataset confiable mediante validación automática, trazabilidad completa y prácticas de CI/CD que aseguran la calidad y confiabilidad de los datos de comunicación con clientes.
